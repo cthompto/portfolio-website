@@ -119,11 +119,16 @@ iframe {
   transition-duration: 0.5s;
 }
 
+.headshot {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
 .headshot img {
   max-width: 400px;
   width: 85%;
   padding: 0px;
-  display: block;
 }
 
 .projectSlide img {
@@ -360,6 +365,14 @@ section {
 
   .mainColA, .mainColB {
     flex: 100%;
+    justify-content: center;
+    margin: auto;
+  }
+  .headshot {
+    max-width: 400px;
+    width: 85%;
+    padding: 0px;
+    display: flex;
     justify-content: center;
     margin: auto;
   }
