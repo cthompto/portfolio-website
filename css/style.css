@@ -407,6 +407,53 @@ section {
 
 }
 
+/* Link Page */
+
+.link-header {
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  max-width: 800px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 20%;
+  font-size: xx-large;
+}
+
+.link-block {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: stretch;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 80%;
+  max-width: 800px;
+  height: 60%;
+  margin-bottom: 5%;
+}
+
+.link-button {
+  margin: auto;
+  flex: 0 1 auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 100%;
+  padding: 7.5%;
+  background-color: #F0EBF0;
+  color: #272727;
+  border: 2px solid #9E4CE6;
+  border-radius: 10px;
+  font-family: 'Red Hat Text', sans-serif;
+  font-weight: 600;
+  font-size: large;
+}
+
+.link-button:hover {
+  background-color: #F5DBFA;
+}
+
 /*Animation Keyframes*/
 @-webkit-keyframes AnimationName {
   0% {
