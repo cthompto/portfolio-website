@@ -412,6 +412,10 @@ section {
     flex: 100%;
   }
 
+  .projectHero-tall img, video {
+    width: 100%;
+  }
+
 }
 
 /* Link Page */
