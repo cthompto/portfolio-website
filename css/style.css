@@ -139,7 +139,7 @@ iframe {
   padding-top: 40px;
 }
 
-.projectHero-tall img, video {
+.projectHero-tall img, .projectHero-tall video {
   padding-top: 40px;
   width: 50%;
   display: block;
@@ -412,7 +412,7 @@ section {
     flex: 100%;
   }
 
-  .projectHero-tall img, video {
+  .projectHero-tall img, .projectHero-tall video {
     width: 100%;
   }
 
