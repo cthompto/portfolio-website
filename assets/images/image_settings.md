@@ -7,8 +7,8 @@ Using: https://doodad.dev/dither-me-this/
 
 ## Projects
 ### Project Page Thumbnails
-- Dithered PNG 400 x 320 using Commadore 64 pallette 
+- Dithered PNG 400 x 320 using Commodore 64 pallette 
 
 ## Blog
 - Blog images to be dithered and sized to 400, 600, or 800 width.
-- Dither with 6 bit or Commodore 64 pallete and use ordered 4x4.
+- Dither with 6 bit or Commodore 64 palette and use ordered 4x4.
